@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "a92b2dda9e4ce0d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "cae8c1d557b906fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36e06784bd401f0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "golang/About.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "433390a5dab66008",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/About.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15f0573db1ffbaa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "microservices/About.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4bd2ce79775dbeb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "661efd7a01ef7a14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d267b75f784fe648",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6fefc4dbc3048163",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "71bf315c9123f8d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2f363170a532a126",
+    "type": "split",
+    "children": [
+      {
+        "id": "7482a11371f3d98e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "870e4f729e5fdf4b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "microservices/About.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa597f8661a0491d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "microservices/About.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c8f7c4cff9c1722c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c02de79a08321cc7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "microservices/About.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "d267b75f784fe648",
+  "lastOpenFiles": [
+    "db/About.md",
+    "microservices/About.md",
+    "git/About.md",
+    "golang/About.md",
+    "Без названия.canvas",
+    "Добро пожаловать.md",
+    "microservices",
+    "db",
+    "git",
+    "golang",
+    "создайте ссылку.md",
+    "Новая ссылка.md"
+  ]
+}
