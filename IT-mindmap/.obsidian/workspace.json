@@ -4,47 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "cae8c1d557b906fc",
+        "id": "612d242e532af9ab",
         "type": "tabs",
         "children": [
           {
-            "id": "36e06784bd401f0f",
+            "id": "96891f98be4c94e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "golang/About.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "433390a5dab66008",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/About.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15f0573db1ffbaa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "microservices/About.md",
-                "mode": "source",
-                "source": false
+                "file": "golang/Slice/Slice.canvas",
+                "viewState": {
+                  "x": -1921.4094097466939,
+                  "y": -749.9185783810897,
+                  "zoom": -0.8214477740217706
+                }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "microservices/About.md",
+                "file": "golang/Slice/Slice.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "microservices/About.md",
+                "file": "golang/Slice/Slice.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "microservices/About.md"
+                "file": "golang/Slice/Slice.canvas"
               }
             }
           }
@@ -158,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -171,13 +149,23 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "d267b75f784fe648",
+  "active": "96891f98be4c94e0",
   "lastOpenFiles": [
-    "db/About.md",
-    "microservices/About.md",
-    "git/About.md",
+    "golang/Slice/Что такое slice.md",
+    "golang/Slice/Структура.md",
+    "golang/Slice/append/Инициализация.md",
+    "golang/Slice/append/Append.md",
+    "golang/Slice/Slice.canvas",
+    "golang/Slice/Без названия.md",
+    "golang/Slice/append",
     "golang/About.md",
-    "Без названия.canvas",
+    "Без названия.md",
+    "golang/Slice/Методы.md",
+    "microservices/About.md",
+    "golang/slice.md",
+    "golang/Slice",
+    "git/About.md",
+    "db/About.md",
     "Добро пожаловать.md",
     "microservices",
     "db",

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"641e1497a1349d52","type":"file","file":"golang/Slice/Структура.md","x":-2580,"y":-1180,"width":460,"height":240},
+		{"id":"4190b5aa583aeae8","type":"text","text":"Основные методы работы c слайсами","x":-1980,"y":-1092,"width":280,"height":65},
+		{"id":"ac45029f0b67fbef","type":"file","file":"golang/Slice/Что такое slice.md","x":-2583,"y":-800,"width":467,"height":160},
+		{"id":"f2aa237bbe4e3712","type":"file","file":"golang/Slice/append/Инициализация.md","x":-2634,"y":-500,"width":569,"height":400},
+		{"id":"314e163e70179cf6","type":"file","file":"golang/Slice/append/Append.md","x":-1500,"y":-1226,"width":540,"height":334}
+	],
+	"edges":[
+		{"id":"5a0b04290b39cc1c","fromNode":"ac45029f0b67fbef","fromSide":"top","toNode":"641e1497a1349d52","toSide":"bottom"},
+		{"id":"feac743757f5d781","fromNode":"641e1497a1349d52","fromSide":"right","toNode":"4190b5aa583aeae8","toSide":"left"},
+		{"id":"bacede8550319fdd","fromNode":"4190b5aa583aeae8","fromSide":"right","toNode":"314e163e70179cf6","toSide":"left"},
+		{"id":"562ecd5dd1f648f7","fromNode":"ac45029f0b67fbef","fromSide":"bottom","toNode":"f2aa237bbe4e3712","toSide":"top"}
+	]
+}
