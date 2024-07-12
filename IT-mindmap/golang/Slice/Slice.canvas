@@ -1,15 +1,15 @@
 {
 	"nodes":[
 		{"id":"641e1497a1349d52","type":"file","file":"golang/Slice/Структура.md","x":-2580,"y":-1180,"width":460,"height":240},
-		{"id":"4190b5aa583aeae8","type":"text","text":"Основные методы работы c слайсами","x":-1980,"y":-1092,"width":280,"height":65},
-		{"id":"ac45029f0b67fbef","type":"file","file":"golang/Slice/Что такое slice.md","x":-2583,"y":-800,"width":467,"height":160},
-		{"id":"f2aa237bbe4e3712","type":"file","file":"golang/Slice/append/Инициализация.md","x":-2634,"y":-500,"width":569,"height":400},
-		{"id":"314e163e70179cf6","type":"file","file":"golang/Slice/append/Append.md","x":-1500,"y":-1226,"width":540,"height":334}
+		{"id":"4190b5aa583aeae8","type":"text","text":"Основные методы работы c слайсами","x":-1980,"y":-1100,"width":340,"height":73},
+		{"id":"f2aa237bbe4e3712","type":"file","file":"golang/Slice/append/Инициализация (слайс).md","x":-2634,"y":-500,"width":569,"height":400},
+		{"id":"314e163e70179cf6","type":"file","file":"golang/Slice/append/Append.md","x":-1500,"y":-887,"width":540,"height":334},
+		{"id":"ce2a9740491ff3b1","type":"text","text":"# **Что такое slice(слайс)**\nСсылочный тип , ссылается на unsafe.Pointer массива\nОбертка над массивом, представляет собой в обычном понимании \"Динамический массив\"","x":-2627,"y":-816,"width":556,"height":192}
 	],
 	"edges":[
-		{"id":"5a0b04290b39cc1c","fromNode":"ac45029f0b67fbef","fromSide":"top","toNode":"641e1497a1349d52","toSide":"bottom"},
 		{"id":"feac743757f5d781","fromNode":"641e1497a1349d52","fromSide":"right","toNode":"4190b5aa583aeae8","toSide":"left"},
 		{"id":"bacede8550319fdd","fromNode":"4190b5aa583aeae8","fromSide":"right","toNode":"314e163e70179cf6","toSide":"left"},
-		{"id":"562ecd5dd1f648f7","fromNode":"ac45029f0b67fbef","fromSide":"bottom","toNode":"f2aa237bbe4e3712","toSide":"top"}
+		{"id":"0ce8347234e12f81","fromNode":"ce2a9740491ff3b1","fromSide":"top","toNode":"641e1497a1349d52","toSide":"bottom"},
+		{"id":"4faa3fe8556dbf95","fromNode":"ce2a9740491ff3b1","fromSide":"bottom","toNode":"f2aa237bbe4e3712","toSide":"top"}
 	]
 }

@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "612d242e532af9ab",
+        "id": "b42278fc9b9eb017",
         "type": "tabs",
         "children": [
           {
-            "id": "96891f98be4c94e0",
+            "id": "73c682e6ed2ecfe1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "golang/Slice/Slice.canvas",
-                "viewState": {
-                  "x": -1921.4094097466939,
-                  "y": -749.9185783810897,
-                  "zoom": -0.8214477740217706
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "golang/Slice/Slice.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "golang/Slice/Slice.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "golang/Slice/Slice.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,23 +138,39 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "96891f98be4c94e0",
+  "active": "73c682e6ed2ecfe1",
   "lastOpenFiles": [
-    "golang/Slice/Что такое slice.md",
-    "golang/Slice/Структура.md",
-    "golang/Slice/append/Инициализация.md",
-    "golang/Slice/append/Append.md",
+    "kubernetes/Без названия.canvas",
+    "git/About.md",
+    "db/ACID.canvas",
+    "Pasted image 20240717121643.png",
+    "Pasted image 20240717120800.png",
+    "Pasted image 20240717120558.png",
+    "Pasted image 20240717115536.png",
+    "Pasted image 20240717115535.png",
+    "Pasted image 20240717115205.png",
+    "Pasted image 20240717115006.png",
+    "Pasted image 20240717114446.png",
+    "Pasted image 20240717114444.png",
+    "Pasted image 20240717114206.png",
+    "golang/chan.md",
+    "kubernetes",
+    "microservices/Layers.md",
+    "microservices/About.md",
+    "golang/About.md",
+    "global",
     "golang/Slice/Slice.canvas",
+    "golang/Slice/Что такое slice(слайс).md",
+    "golang/Slice/Структура.md",
+    "db/About.md",
+    "golang/Slice/append/Инициализация (слайс).md",
+    "golang/Slice/append/Append.md",
     "golang/Slice/Без названия.md",
     "golang/Slice/append",
-    "golang/About.md",
     "Без названия.md",
     "golang/Slice/Методы.md",
-    "microservices/About.md",
     "golang/slice.md",
     "golang/Slice",
-    "git/About.md",
-    "db/About.md",
     "Добро пожаловать.md",
     "microservices",
     "db",
