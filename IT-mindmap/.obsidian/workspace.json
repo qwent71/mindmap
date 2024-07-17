@@ -11,11 +11,49 @@
             "id": "73c682e6ed2ecfe1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "kubernetes/img/configMap.png"
+              }
+            }
+          },
+          {
+            "id": "f9f2784c0c29cd64",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "kubernetes/img/ingress.png"
+              }
+            }
+          },
+          {
+            "id": "090919bcdedd5680",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "kubernetes/img/configMap.png"
+              }
+            }
+          },
+          {
+            "id": "3095bc99e4dc7571",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "kubernetes/kuber.canvas",
+                "viewState": {
+                  "x": -495.7245160751195,
+                  "y": -232.27988060221548,
+                  "zoom": -2.666666608537947
+                }
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "kubernetes/kuber.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "kubernetes/kuber.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "kubernetes/kuber.canvas"
+              }
             }
           }
         ]
@@ -138,21 +180,23 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "73c682e6ed2ecfe1",
+  "active": "3095bc99e4dc7571",
   "lastOpenFiles": [
-    "kubernetes/Без названия.canvas",
+    "Pasted image 20240718154610.png",
+    "Pasted image 20240718154608.png",
+    "Pasted image 20240718154549.png",
+    "Pasted image 20240718154525.png",
+    "Pasted image 20240718154511.png",
+    "Pasted image 20240718153530.png",
+    "Pasted image 20240718151125.png",
+    "Pasted image 20240718150245.png",
+    "kubernetes/img/global.png",
+    "kubernetes/img/statefulset.png",
+    "Pasted image 20240715000741.png",
+    "kubernetes/kuber.canvas",
+    "kubernetes/img",
     "git/About.md",
     "db/ACID.canvas",
-    "Pasted image 20240717121643.png",
-    "Pasted image 20240717120800.png",
-    "Pasted image 20240717120558.png",
-    "Pasted image 20240717115536.png",
-    "Pasted image 20240717115535.png",
-    "Pasted image 20240717115205.png",
-    "Pasted image 20240717115006.png",
-    "Pasted image 20240717114446.png",
-    "Pasted image 20240717114444.png",
-    "Pasted image 20240717114206.png",
     "golang/chan.md",
     "kubernetes",
     "microservices/Layers.md",
