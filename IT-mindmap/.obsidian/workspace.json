@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b42278fc9b9eb017",
+        "id": "8dda25d48bba4b56",
         "type": "tabs",
         "children": [
           {
-            "id": "a9b79bd8d0507eff",
+            "id": "6bf61a5786ec6ab0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "kubernetes/kuber.canvas",
-                "viewState": {
-                  "x": -1661.7480519914384,
-                  "y": 560.521495723475,
-                  "zoom": -0.6851282491057664
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kubernetes/kuber.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kubernetes/kuber.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "kubernetes/kuber.canvas"
-              }
+              "state": {}
             }
           }
         ],
@@ -151,53 +140,54 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "a9b79bd8d0507eff",
+  "active": "6bf61a5786ec6ab0",
   "lastOpenFiles": [
-    "db/ACID.canvas",
-    "Без названия.md",
+    "microservices/Паттерны/img/Pasted image 20240718155820.png",
     "Pr.md",
-    "kubernetes/kuber.canvas",
-    "microservices/Task.md",
-    "microservices/Паттерны/solid.md",
-    "Pasted image 20240719114810.png",
-    "Pasted image 20240719114759.png",
-    "microservices/Паттерны/Osi.md",
-    "Pasted image 20240719112047.png",
-    "Pasted image 20240719112037.png",
-    "Pasted image 20240719111829.png",
-    "Pasted image 20240719111707.png",
-    "golang/chan.md",
-    "microservices/Паттерны/eventSourcing.canvas",
-    "microservices/Паттерны/cqrs.canvas",
-    "Pasted image 20240719102321.png",
-    "Pasted image 20240719101916.png",
-    "Pasted image 20240719101805.png",
-    "Pasted image 20240719101629.png",
-    "microservices/Без названия.md",
-    "microservices/Паттерны",
-    "kubernetes/img",
-    "git/About.md",
-    "kubernetes",
-    "microservices/Layers.md",
-    "microservices/About.md",
-    "golang/About.md",
-    "global",
+    "Без названия.md",
+    "task/img/Pasted image 20240719101145.png",
+    "task/img",
+    "task",
+    "task/Task.md",
     "golang/Slice/Slice.canvas",
     "golang/Slice/Что такое slice(слайс).md",
     "golang/Slice/Структура.md",
-    "db/About.md",
-    "golang/Slice/append/Инициализация (слайс).md",
     "golang/Slice/append/Append.md",
+    "golang/Slice/append/Инициализация (слайс).md",
+    "golang/chan.md",
+    "microservices/Паттерны/cqrs.canvas",
+    "task/img/Pasted image 20240719101204.png",
+    "task/img/Pasted image 20240719101629.png",
+    "task/img/Pasted image 20240719101805.png",
+    "task/img/Pasted image 20240719101916.png",
+    "task/img/Pasted image 20240719102321.png",
+    "task/img/Pasted image 20240719111707.png",
+    "task/img/Pasted image 20240719111829.png",
+    "kubernetes/img/Pasted image 20240718154610.png",
+    "kubernetes/kuber.canvas",
+    "kubernetes/Pasted image 20240717120558.png",
+    "golang/img",
+    "microservices/Layers.md",
+    "microservices/About.md",
+    "microservices/Паттерны/Osi.md",
+    "microservices/Паттерны/eventSourcing.canvas",
+    "db/img",
+    "microservices/img",
+    "microservices/Паттерны/img",
+    "db/ACID.canvas",
+    "git/About.md",
+    "microservices/img/solid.md",
+    "microservices/Без названия.md",
+    "microservices/Паттерны",
+    "kubernetes/img",
+    "kubernetes",
+    "golang/About.md",
+    "global",
+    "db/About.md",
     "golang/Slice/Без названия.md",
-    "golang/Slice/append",
     "golang/Slice/Методы.md",
     "golang/slice.md",
-    "golang/Slice",
     "Добро пожаловать.md",
-    "microservices",
-    "db",
-    "git",
-    "golang",
     "создайте ссылку.md",
     "Новая ссылка.md"
   ]
