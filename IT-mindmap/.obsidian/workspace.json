@@ -8,52 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "73c682e6ed2ecfe1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "kubernetes/img/configMap.png"
-              }
-            }
-          },
-          {
-            "id": "f9f2784c0c29cd64",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "kubernetes/img/ingress.png"
-              }
-            }
-          },
-          {
-            "id": "090919bcdedd5680",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "kubernetes/img/configMap.png"
-              }
-            }
-          },
-          {
-            "id": "3095bc99e4dc7571",
+            "id": "a9b79bd8d0507eff",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "kubernetes/kuber.canvas",
                 "viewState": {
-                  "x": -495.7245160751195,
-                  "y": -232.27988060221548,
-                  "zoom": -2.666666608537947
+                  "x": -1661.7480519914384,
+                  "y": 560.521495723475,
+                  "zoom": -0.6851282491057664
                 }
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 248.5
   },
   "right": {
     "id": "2f363170a532a126",
@@ -163,11 +132,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 565.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -177,27 +147,36 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "3095bc99e4dc7571",
+  "active": "a9b79bd8d0507eff",
   "lastOpenFiles": [
-    "Pasted image 20240718154610.png",
-    "Pasted image 20240718154608.png",
-    "Pasted image 20240718154549.png",
-    "Pasted image 20240718154525.png",
-    "Pasted image 20240718154511.png",
-    "Pasted image 20240718153530.png",
-    "Pasted image 20240718151125.png",
-    "Pasted image 20240718150245.png",
-    "kubernetes/img/global.png",
-    "kubernetes/img/statefulset.png",
-    "Pasted image 20240715000741.png",
+    "db/ACID.canvas",
+    "Без названия.md",
+    "Pr.md",
     "kubernetes/kuber.canvas",
+    "microservices/Task.md",
+    "microservices/Паттерны/solid.md",
+    "Pasted image 20240719114810.png",
+    "Pasted image 20240719114759.png",
+    "microservices/Паттерны/Osi.md",
+    "Pasted image 20240719112047.png",
+    "Pasted image 20240719112037.png",
+    "Pasted image 20240719111829.png",
+    "Pasted image 20240719111707.png",
+    "golang/chan.md",
+    "microservices/Паттерны/eventSourcing.canvas",
+    "microservices/Паттерны/cqrs.canvas",
+    "Pasted image 20240719102321.png",
+    "Pasted image 20240719101916.png",
+    "Pasted image 20240719101805.png",
+    "Pasted image 20240719101629.png",
+    "microservices/Без названия.md",
+    "microservices/Паттерны",
     "kubernetes/img",
     "git/About.md",
-    "db/ACID.canvas",
-    "golang/chan.md",
     "kubernetes",
     "microservices/Layers.md",
     "microservices/About.md",
@@ -211,7 +190,6 @@
     "golang/Slice/append/Append.md",
     "golang/Slice/Без названия.md",
     "golang/Slice/append",
-    "Без названия.md",
     "golang/Slice/Методы.md",
     "golang/slice.md",
     "golang/Slice",
